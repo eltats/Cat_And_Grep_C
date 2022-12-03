@@ -1,4 +1,4 @@
-# My own cat &amp;&amp; grep implementation for MacOS
+# My own cat &amp;&amp; grep implementation 
 
 ## General info 
 
